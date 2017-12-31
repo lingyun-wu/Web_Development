@@ -23,7 +23,6 @@
 * find
 * update
 * remove
-* 
 
 
 #Mongoose

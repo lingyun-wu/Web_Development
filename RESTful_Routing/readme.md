@@ -41,3 +41,21 @@ Destroy  /destroyBlog/:id
 * Add SHOW template
 * Add links to show page
 * Style SHOW template
+
+ 
+#Edit/Update
+* Add Edit Route
+* Add Edit Form
+* Add Update Route
+* Add Update Form
+* Add Method-Override
+
+
+#Destroy
+* Add DESTROY route
+* Add EDIT and DESTROY link
+
+#Final Updates
+* Sanitize the blog body
+* Style Index
+* Update REST table
